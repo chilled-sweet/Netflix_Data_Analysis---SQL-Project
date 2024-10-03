@@ -5,11 +5,17 @@ Introduction Netflix Data Analysis SQL Project aims to analyze data related to v
 ## Queries and Findings: The project involved running several SQL queries on the sales database to extract relevant information. Some of the key findings include:
 
  Q1. List the Top 10 Movies with Highest Average Rating.
+ 
  Q2. Calculate the Percentage(%) of movie that belong to each genre in the Database.
+ 
  Q3. Rank the Movie & Tv Series on the Basis of their IMBD Score
+ 
  Q4. Find Which Country Have the Highest and lowest movie make.
+ 
  Q5. Find the Average Rating for the movie that belong to Multiple Genres.
+ 
  Q6. Categories the Genre on the According to Age-Certification.
+ 
  Q7. Find the 2nd highest Movie that are made in Year 2013.
 
 Database Schema The analysis is based on the following database schema:
