@@ -18,8 +18,9 @@ Introduction Netflix Data Analysis SQL Project aims to analyze data related to v
  
  Q7. Find the 2nd highest Movie that are made in Year 2013.
 
-Database Schema The analysis is based on the following database schema:
-### Netflix_data - ID,	TITLE,	TYPE,	RELEASE_YEAR,	AGE_CERTIFICATION,	RUNTIME	,GENRE,	PRODUCTION_COUNTRIES,	SEASONS,	IMDB_SCORE,	IMDB_VOTES
+
+## Database Schema The analysis is based on the following database schema:
+ Netflix_data - ID,	TITLE,	TYPE,	RELEASE_YEAR,	AGE_CERTIFICATION,	RUNTIME	,GENRE,	PRODUCTION_COUNTRIES,	SEASONS,	IMDB_SCORE,	IMDB_VOTES
 
 Happy querying and exploring the Texture Tales SQL Project! 📊💡🔍🚀
 
